@@ -1,4 +1,13 @@
-### Hi there 👋
+### Olá Humanos 👋
+
+Todos neste país deveriam aprender a programar um computador, pois isto ensina a pensar. - Steve Jobs
+
+Meu nome é Anderson sou desenvolvedor .NET jr e sou um amante tecnologias de desenvolvimento, sempre tento me manter atualizado com as novas tecnologias e adoro criar códigos open source para passar meu conhecimento
+
+seja bem vindo a esse perfil 
+
+## De uma olhada em nossos projetos
+
 
 <!--
 **And1zera/And1zera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
