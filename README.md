@@ -1,4 +1,4 @@
-### Olá Humanos 👋
+## Olá Humanos 👋
 
 Todos neste país deveriam aprender a programar um computador, pois isto ensina a pensar. - Steve Jobs
 
@@ -6,7 +6,7 @@ Meu nome é Anderson sou desenvolvedor .NET jr e sou um amante tecnologias de de
 
 seja bem vindo a esse perfil 
 
-## De uma olhada em nossos projetos
+### De uma olhada em nossos projetos
 
 
 <!--
