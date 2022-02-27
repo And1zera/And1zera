@@ -4,9 +4,7 @@ Todos neste país deveriam aprender a programar um computador, pois isto ensina 
 
 Meu nome é Anderson sou desenvolvedor .NET jr e sou um amante tecnologias de desenvolvimento, sempre tento me manter atualizado com as novas tecnologias e adoro criar códigos open source para passar meu conhecimento
 
-seja bem vindo a esse perfil 
-
-### De uma olhada em nossos projetos
+seja bem vindo a esse perfil
 
 
 <!--
