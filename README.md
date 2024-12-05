@@ -1,22 +1,16 @@
 ## Fala turma 👋
 
-Meu nome é Anderson sou desenvolvedor .NET  e sou um amante tecnologias de desenvolvimento, sempre tento me manter atualizado com as novas tecnologias e adoro criar códigos open source para passar meu conhecimento
+Meu nome é Anderson sou desenvolvedor .NET e sou um amante tecnologias de desenvolvimento. Sou um desenvolvedor com experiência em criar soluções escaláveis e performáticas, com foco em integrações complexas e sistemas back-end. Tenho uma abordagem pragmática para resolver problemas e me dedico a utilizar as tecnologias mais atuais para atender às necessidades dos projetos.
 
-seja bem vindo a esse perfil
+🔧 Tecnologias e Ferramentas
+
+- Linguagens: C#, SQL, JavaScript.
+- Plataformas: .NET, Angular, SQL Server e OracleSQL.
+- Mensageria: MassTransit, RabbitMQ.
+- Infraestrutura: Docker, Kubernetes.
+- Outras: Circuit Breakers com ResiliencePipeline, RestClient.
+
+
+seja bem vindo a esse perfil !
 
 Todos neste país deveriam aprender a programar um computador, pois isto ensina a pensar. - Steve Jobs
-
-<!--
-**And1zera/And1zera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
