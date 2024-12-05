@@ -11,6 +11,6 @@ Meu nome é Anderson sou desenvolvedor .NET e sou um amante tecnologias de desen
 - Outras: Circuit Breakers com ResiliencePipeline, RestClient.
 
 
-seja bem vindo a esse perfil !
+Seja bem vindo a esse perfil !
 
 Todos neste país deveriam aprender a programar um computador, pois isto ensina a pensar. - Steve Jobs
