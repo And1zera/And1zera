@@ -1,4 +1,4 @@
-## Olá Humanos 👋
+## Fala turma 👋
 
 Todos neste país deveriam aprender a programar um computador, pois isto ensina a pensar. - Steve Jobs
 
