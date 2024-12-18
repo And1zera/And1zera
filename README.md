@@ -1,6 +1,6 @@
 ## Fala turma 👋
 
-Meu nome é Anderson sou desenvolvedor .NET e sou um amante tecnologias de desenvolvimento. Sou um desenvolvedor com experiência em criar soluções escaláveis e performáticas, com foco em integrações complexas e sistemas back-end. Tenho uma abordagem pragmática para resolver problemas e me dedico a utilizar as tecnologias mais atuais para atender às necessidades dos projetos.
+Meu nome é Anderson e sou desenvolvedor .NET, apaixonado por tecnologia e pelo desenvolvimento de software. Tenho experiência na criação de soluções com C# e .NET, com foco em integrações complexas e sistemas de back-end. Gosto de resolver problemas de forma prática e sempre busco usar as tecnologias mais modernas para atender às demandas dos projetos.
 
 🔧 Tecnologias e Ferramentas
 
